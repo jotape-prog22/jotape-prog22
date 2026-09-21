@@ -118,8 +118,8 @@
 <div align="center">
 
 <a href="https://github.com/jotape-prog22">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=jotape-prog22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=jotape-prog22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jotape-prog22&theme=tokyonight" alt="GitHub stats" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jotape-prog22&theme=tokyonight" alt="Top languages by commit" />
 </a>
 
 <br/><br/>
